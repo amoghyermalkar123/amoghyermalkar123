@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I am Amogh Yermalkar 👋
 
-<!--
-**amoghyermalkar123/amoghyermalkar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am primarily a backend developer and a systems engineer. I am from Pune, Maharashtra, India
+* I am passionate about systems, networking (both systems and people! :P), i am an engineer through and through because i love building cool stuff.
+* I am a Go developer by day and a rust, react, networks enthusiast by night.
 
-Here are some ideas to get you started:
+### What am I working on currently?
+* an application that lets you watch videos, listen to music in realtime. But the catch is you can do it with your friends, 
+  at the same time, and the same content, and whoever is the creator of that room, controls playback which is reflected on all of 
+  your friends devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* professionally i am working on a distributed systems project. making services efficient, building load-testing tools, learning mind-blowing stuff.
+
+### Any other thoughts..?
+* I've recently realized i am always going to be a student, there's a ton of stuff to learn, so much knowledge to gain.
+* as an engineer my ultimate goal is to build a timeless masterpiece.
+* oh and i love food.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amoghyermalkar123)
