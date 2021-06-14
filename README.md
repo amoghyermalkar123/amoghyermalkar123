@@ -16,4 +16,4 @@
 * as an engineer my ultimate goal is to build a timeless masterpiece.
 * oh and i love food.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=amoghyermalkar123)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Amogh Yermalkar)
