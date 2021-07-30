@@ -2,7 +2,7 @@
 
 * I am primarily a backend developer and a systems engineer. I am from Pune, Maharashtra, India
 * I am passionate about systems, networking (both systems and people! :P), i am an engineer through and through because i love building cool stuff.
-* I am a Go developer by day and a rust, react, networks enthusiast by night.
+* I am a Go developer by day and a rust enthusiast by night.
 
 ### What am I working on currently?
 * an application that lets you watch videos, listen to music in realtime. But the catch is you can do it with your friends, 
