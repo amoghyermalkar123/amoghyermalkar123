@@ -5,11 +5,7 @@
 * I am a Go developer by day and a rust enthusiast by night.
 
 ### What am I working on currently?
-* an application that lets you watch videos, listen to music in realtime. But the catch is you can do it with your friends, 
-  at the same time, and the same content, and whoever is the creator of that room, controls playback which is reflected on all of 
-  your friends devices.
-
-* professionally i am building a hyper-local CDN.
+* CRDT's
 
 ### Any other thoughts..?
 * I've recently realized i am always going to be a student, there's a ton of stuff to learn, so much knowledge to gain.
